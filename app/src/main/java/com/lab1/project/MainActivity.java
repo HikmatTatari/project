@@ -6,7 +6,8 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
   
-//Konstantinos
+//Konstantinos new comment
+    //second comment
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
