@@ -1,11 +1,14 @@
 package com.lab1.project;
-
+//Franzi
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
+  
+ Konstantinos
 //Konstantinos
+ master
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
