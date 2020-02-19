@@ -1,11 +1,12 @@
 package com.lab1.project;
 //Franzi
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
-  
+
 //Konstantinos
 
     @Override
@@ -15,15 +16,17 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    private void bla(){
+    private void bla() {
         System.out.println("Hello");
     }
 
-    void method(){}
+    void method() {
+    }
 
-    void konsta(){
+    void konsta() {
         System.out.println();
     }
 
+    int r;
 
 }
