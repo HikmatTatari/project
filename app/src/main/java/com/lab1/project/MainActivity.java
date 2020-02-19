@@ -6,8 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
   
-//Konstantinos new comment
-    //second comment
+//Konstantinos
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -15,7 +14,3 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
-// Let's try this .. MW
-// THIS IS THE NEW CHANGE!!!!!!!!!!!
-// THIS IS THE NEW NEW CHANGE!!!
-//ok now 
