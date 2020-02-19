@@ -13,6 +13,13 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+
+    private void bla(){
+        System.out.println("Hello");
+    }
+
     void method(){}
+
 
 }
