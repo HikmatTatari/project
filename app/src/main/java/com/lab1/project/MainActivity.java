@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     void method() {
     }
 
-    void konsta() {
+    void konsta(){
         System.out.println();
     }
 
